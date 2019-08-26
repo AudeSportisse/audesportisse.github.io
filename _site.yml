@@ -1,0 +1,15 @@
+name: "Aude Sportisse"
+navbar:
+  title: "Aude Sportisse"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Software"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+output_dir: "."
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
