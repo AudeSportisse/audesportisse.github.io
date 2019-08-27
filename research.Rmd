@@ -11,14 +11,14 @@
 
 **Talks** 
 
-* [Estimation with informative missing data in the low-rank model with random effects](JDS2019_Sportisse.pdf), June 7. 2019, Journées de Statistique 2019, Nancy
+* [Estimation with informative missing data in the low-rank model with random effects](files/JDS2019_Sportisse.pdf), June 7. 2019, Journées de Statistique 2019, Nancy
 
-* [Imputation and low-rank estimation with Missing Not At Random data](Dagstat2019_Sportisse.pdf), March 21. 2019, DAGStat Conference, LMU Münich 
+* [Imputation and low-rank estimation with Missing Not At Random data](files/Dagstat2019_Sportisse.pdf), March 21. 2019, DAGStat Conference, LMU Münich 
 
 * Low rank estimation with MNAR data, September 5. 2018, Group Meeting, University Pierre and Marie Curie
 
 **Posters** 
 
-* [Estimation with informative missing data in the low-rank model with random effects](Ds3_2019_Sportisse.pdf), June 24.-28. 2019, Data Science Summer School, Ecole Polytechnique 
+* [Estimation with informative missing data in the low-rank model with random effects](files/poster_DS3_2019.pdf), June 24.-28. 2019, Data Science Summer School, Ecole Polytechnique 
 
 * Low rank estimation with MNAR data, June 25. 2018, Data Science Summer School, Ecole Polytechnique
