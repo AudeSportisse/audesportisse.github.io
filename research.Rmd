@@ -5,6 +5,8 @@
 
 **Papers**
 
+* [Debiasing Stochastic Gradient Descent to handle missing values](https://arxiv.org/abs/2002.09338) (2020, submitted), Aude Sportisse, Claire Boyer, Aymeric Dieuleveut, Julie Josse
+
 * [Estimation with informative missing data in the low-rank model with random effects](https://arxiv.org/abs/1906.02493) (2019, submitted), Aude Sportisse, Claire Boyer, Julie Josse
 
 * [Imputation and low-rank estimation with Missing Not At Random data](https://arxiv.org/abs/1812.11409) (2018, submitted), Aude Sportisse, Claire Boyer, Julie Josse
