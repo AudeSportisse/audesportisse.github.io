@@ -5,13 +5,22 @@
 
 **Papers**
 
+* [Robust Lasso-Zero for sparse corruption and model selection with missing covariates](https://arxiv.org/abs/2005.05628) (2020, submitted), Pascaline Descloux, Claire Boyer, Julie Josse, Aude Sportisse, Sylvain Sardy
+
 * [Debiasing Stochastic Gradient Descent to handle missing values](https://arxiv.org/abs/2002.09338) (2020, submitted), Aude Sportisse, Claire Boyer, Aymeric Dieuleveut, Julie Josse
 
 * [Estimation with informative missing data in the low-rank model with random effects](https://arxiv.org/abs/1906.02493) (2019, submitted), Aude Sportisse, Claire Boyer, Julie Josse
 
-* [Imputation and low-rank estimation with Missing Not At Random data](https://arxiv.org/abs/1812.11409) (2018, submitted), Aude Sportisse, Claire Boyer, Julie Josse
+* [Imputation and low-rank estimation with Missing Not At Random data](https://arxiv.org/abs/1812.11409) (2018, Statistics & Computing, Springer), Aude Sportisse, Claire Boyer, Julie Josse
 
 **Talks** 
+
+* [Robust Lasso-Zero for sparse corruption and model selection with missing covariates](files/Lass0_Sportisse.pdf), July 3. 2020, [One World : statistical learning seminars](https://statistical-learning-seminars.github.io)
+
+
+* [Estimation and Imputation in Probabilistic Principal Component 
+Analysis with Missing Not At Random Data](files/PPCA_MNAR_2020.pdf), June 18. 2020, Simpas Group Meeting, Ecole Polytechnique
+
 
 * [Estimation with informative missing data in the low-rank model with random effects](files/JDS2019_Sportisse.pdf), June 7. 2019, Journées de Statistique 2019, Nancy
 
