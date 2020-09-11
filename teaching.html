@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,7 +84,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -233,6 +232,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -244,18 +244,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -312,8 +300,10 @@ $(document).ready(function () {
 <hr />
 <hr />
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><strong>Inferential statistics</strong>, University Pierre et Marie Curie</p>
-<p><strong>Statistics with R</strong>, University Pierre et Marie Curie</p>
+<p><strong>Inferential statistics</strong>, University Pierre et Marie Curie (Première année ISUP)</p>
+<p><strong>Statistics with R</strong>, University Pierre et Marie Curie (M1)</p>
+<p><strong>Logiciel R</strong>, University Pierre et Marie Curie (M2)</p>
+<p><a href="files/InstallerR.html">Installations R</a></p>
 
 
 
@@ -332,6 +322,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

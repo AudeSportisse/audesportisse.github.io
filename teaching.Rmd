@@ -4,7 +4,10 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-**Inferential statistics**, University Pierre et Marie Curie
+**Inferential statistics**, University Pierre et Marie Curie (Première année ISUP)
 
-**Statistics with R**, University Pierre et Marie Curie
+**Statistics with R**, University Pierre et Marie Curie (M1)
 
+**Logiciel R**, University Pierre et Marie Curie (M2)
+
+[Installations R](files/InstallerR.html)
