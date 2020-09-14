@@ -10,4 +10,10 @@
 
 **Logiciel R**, University Pierre et Marie Curie (M2)
 
+## 1. Introduction
+
 [Installations R](files/InstallerR.html)
+
+## Devoirs maison
+
+[Dataset decathlon](files/decathlon.csv)
