@@ -10,10 +10,27 @@
 
 **Logiciel R**, University Pierre et Marie Curie (M2)
 
-## 1. Introduction
+#### Introduction
 
 [Installations R](files/InstallerR.html)
 
-## Devoirs maison
+[Antisèche Rmarkdown](files/rmarkdown-cheatsheet.pdf)
 
-[Dataset decathlon](files/decathlon.csv)
+#### Visualisation graphique avec ggplot2
+
+[Antisèche ggplot2](files/data-visualization-cheatsheet.pdf)
+
+
+#### Estimations et intervalles de confiance
+
+#### Tests
+
+#### Régressions
+
+#### Devoirs maison
+
+#### Jeux de données
+
+[decathlon](files/decathlon.csv)
+
+[snore](files/snore.txt)
