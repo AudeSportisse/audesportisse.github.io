@@ -20,7 +20,7 @@
 
 [Fiche 1](files/Fiche1.html)
 
-<!-- [Fiche 1 correction](files/Fiche1correction.html) -->
+[Fiche 1 correction](files/Fiche1correction.html)
 
 #### Visualisation graphique avec ggplot2
 
@@ -50,6 +50,7 @@
 
 #### Devoirs maison
 
+[DM1](files/Devoirmaison1.html)
 
 #### Jeux de données
 
