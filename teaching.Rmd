@@ -52,6 +52,8 @@
 
 [DM1](files/Devoirmaison1.html)
 
+[DM2](files/Devoirmaison2.html)
+
 #### Jeux de données
 
 [decathlon](files/decathlon.csv)
