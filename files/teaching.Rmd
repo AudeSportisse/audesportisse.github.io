@@ -1,0 +1,59 @@
+---
+
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+**Inferential statistics**, University Pierre et Marie Curie (Première année ISUP)
+
+**Statistics with R**, University Pierre et Marie Curie (M1)
+
+**Logiciel R**, University Pierre et Marie Curie (M2)
+
+#### Introduction
+
+[Installations R](files/InstallerR.html)
+
+[Modalités d'évaluation](files/EvalR.html)
+
+[Antisèche Rmarkdown](files/rmarkdown-cheatsheet.pdf)
+
+[Fiche 1](files/Fiche1.html)
+
+[Fiche 1 correction](files/Fiche1correction.html)
+
+#### Visualisation graphique avec ggplot2
+
+[Antisèche ggplot2](files/data-visualization-cheatsheet.pdf)
+
+[Fiche 2](files/Fiche2.html)
+
+[Fiche 2 correction](files/Fiche2correction.html)
+
+#### Estimations et intervalles de confiance
+
+[Fiche 3](files/Fiche3.html)
+
+<!-- [Fiche 3 correction](files/Fiche3correction.html) -->
+
+#### Tests
+
+[Fiche 4](files/Fiche4.html)
+
+<!-- [Fiche 4 correction](files/Fiche4correction.html) -->
+
+#### Régressions
+
+<!-- [Fiche 5](files/Fiche5.html) -->
+
+<!-- [Fiche 5 correction](files/Fiche5correction.html) -->
+
+#### Devoirs maison
+
+[DM1](files/Devoirmaison1.html)
+
+#### Jeux de données
+
+[decathlon](files/decathlon.csv)
+
+[snore](files/snore.txt)
