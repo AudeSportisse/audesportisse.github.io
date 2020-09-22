@@ -28,7 +28,7 @@
 
 [Fiche 2](files/Fiche2.html)
 
-<!-- [Fiche 2 correction](files/Fiche2correction.html) -->
+[Fiche 2 correction](files/Fiche2correction.html)
 
 #### Estimations et intervalles de confiance
 
