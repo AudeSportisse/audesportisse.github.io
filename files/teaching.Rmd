@@ -34,7 +34,7 @@
 
 [Fiche 3](files/Fiche3.html)
 
-<!-- [Fiche 3 correction](files/Fiche3correction.html) -->
+[Fiche 3 correction](files/Fiche3correction.html)
 
 #### Tests
 
@@ -51,6 +51,8 @@
 #### Devoirs maison
 
 [DM1](files/Devoirmaison1.html)
+
+[DM2](files/Devoirmaison2.html)
 
 #### Jeux de données
 
