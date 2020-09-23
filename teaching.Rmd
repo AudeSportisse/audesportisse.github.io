@@ -34,7 +34,7 @@
 
 [Fiche 3](files/Fiche3.html)
 
-<!-- [Fiche 3 correction](files/Fiche3correction.html) -->
+[Fiche 3 correction](files/Fiche3correction.html)
 
 #### Tests
 
