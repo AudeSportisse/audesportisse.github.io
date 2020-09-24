@@ -44,7 +44,7 @@
 
 #### Régressions
 
-<!-- [Fiche 5](files/Fiche5.html) -->
+[Fiche 5](files/Fiche5.html)
 
 <!-- [Fiche 5 correction](files/Fiche5correction.html) -->
 
