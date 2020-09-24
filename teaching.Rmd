@@ -59,3 +59,7 @@
 [decathlon](files/decathlon.csv)
 
 [snore](files/snore.txt)
+
+[ozone](files/ozone.txt)
+
+[icecream](files/icecream.txt)
