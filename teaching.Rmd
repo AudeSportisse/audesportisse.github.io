@@ -66,3 +66,5 @@
 [ozone](files/ozone.txt)
 
 [icecream](files/icecream.txt)
+
+[cancerprostate](files/cancerprostate.csv)
