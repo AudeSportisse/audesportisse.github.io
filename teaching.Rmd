@@ -48,6 +48,9 @@
 
 <!-- [Fiche 5 correction](files/Fiche5correction.html) -->
 
+
+[Fiche 6](files/Fiche6.pdf)
+
 #### Devoirs maison
 
 [DM1](files/Devoirmaison1.html)
