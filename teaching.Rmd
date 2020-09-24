@@ -40,7 +40,7 @@
 
 [Fiche 4](files/Fiche4.html)
 
-<!-- [Fiche 4 correction](files/Fiche4correction.html) -->
+[Fiche 4 correction](files/Fiche4correction.html)
 
 #### Régressions
 
@@ -56,6 +56,8 @@
 [DM1](files/Devoirmaison1.html)
 
 [DM2](files/Devoirmaison2.html)
+
+[DM3](files/Devoirmaison3.html)
 
 #### Jeux de données
 
