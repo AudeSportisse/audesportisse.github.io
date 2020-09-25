@@ -51,6 +51,10 @@
 
 [Fiche 6](files/Fiche6.pdf)
 
+### Package dplyr
+
+[Fiche dplyr](files/Fichedplyr.html)
+
 #### Devoirs maison
 
 [DM1](files/Devoirmaison1.html)
