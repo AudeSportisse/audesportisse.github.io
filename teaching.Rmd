@@ -46,10 +46,11 @@
 
 [Fiche 5](files/Fiche5.html)
 
-<!-- [Fiche 5 correction](files/Fiche5correction.html) -->
-
+[Fiche 5 correction](files/Fiche5correction.html)
 
 [Fiche 6](files/Fiche6.pdf)
+
+[Fiche 6 correction](files/Fiche6correction.html)
 
 #### Package dplyr
 
