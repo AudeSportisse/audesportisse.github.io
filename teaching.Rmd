@@ -51,7 +51,7 @@
 
 [Fiche 6](files/Fiche6.pdf)
 
-### Package dplyr
+#### Package dplyr
 
 [Fiche dplyr](files/Fichedplyr.html)
 
