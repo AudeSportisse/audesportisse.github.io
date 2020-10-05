@@ -7,14 +7,16 @@
 
 * [Robust Lasso-Zero for sparse corruption and model selection with missing covariates](https://arxiv.org/abs/2005.05628) (2020, submitted), Pascaline Descloux, Claire Boyer, Julie Josse, Aude Sportisse, Sylvain Sardy
 
-* [Debiasing Stochastic Gradient Descent to handle missing values](https://arxiv.org/abs/2002.09338) (2020, submitted), Aude Sportisse, Claire Boyer, Aymeric Dieuleveut, Julie Josse
+* [Debiasing Stochastic Gradient Descent to handle missing values](https://arxiv.org/abs/2002.09338) (NeurIPS 2020), Aude Sportisse, Claire Boyer, Aymeric Dieuleveut, Julie Josse
 
 * [Estimation and Imputation in Probabilistic Principal Component 
-Analysis with Missing Not At Random Data](https://arxiv.org/abs/1906.02493) (2020, submitted), Aude Sportisse, Claire Boyer, Julie Josse
+Analysis with Missing Not At Random Data](https://arxiv.org/abs/1906.02493) (NeurIPS 2020), Aude Sportisse, Claire Boyer, Julie Josse
 
 * [Imputation and low-rank estimation with Missing Not At Random data](https://arxiv.org/abs/1812.11409) (2018, Statistics & Computing, Springer), Aude Sportisse, Claire Boyer, Julie Josse
 
 **Talks** 
+
+* Debiasing Stochastic Gradient Descent to handle missing values, October 5. 2020, MIA Seminar, AgroParisTech
 
 * [Robust Lasso-Zero for sparse corruption and model selection with missing covariates](files/Lass0_Sportisse.pdf), July 3. 2020, [One World : statistical learning seminars](https://statistical-learning-seminars.github.io)
 
