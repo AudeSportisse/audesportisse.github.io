@@ -16,7 +16,7 @@ Analysis with Missing Not At Random Data](https://arxiv.org/abs/1906.02493) (Neu
 
 **Talks** 
 
-* Debiasing Stochastic Gradient Descent to handle missing values, October 5. 2020, MIA Seminar, AgroParisTech
+* [Debiasing Stochastic Gradient Descent to handle missing values](files/SGD_TalkMIA.pdf), October 5. 2020, MIA Seminar, AgroParisTech
 
 * [Robust Lasso-Zero for sparse corruption and model selection with missing covariates](files/Lass0_Sportisse.pdf), July 3. 2020, [One World : statistical learning seminars](https://statistical-learning-seminars.github.io)
 
