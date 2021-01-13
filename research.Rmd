@@ -5,7 +5,7 @@
 
 **Papers**
 
-* [Robust Lasso-Zero for sparse corruption and model selection with missing covariates](https://arxiv.org/abs/2005.05628) (2020, major review in Scandinavian Journal of Statistics), Pascaline Descloux, Claire Boyer, Julie Josse, Aude Sportisse, Sylvain Sardy
+* [Robust Lasso-Zero for sparse corruption and model selection with missing covariates](https://arxiv.org/abs/2005.05628) (2020, in review), Pascaline Descloux, Claire Boyer, Julie Josse, Aude Sportisse, Sylvain Sardy
 
 * [Debiasing Stochastic Gradient Descent to handle missing values](https://arxiv.org/abs/2002.09338) (NeurIPS 2020), Aude Sportisse, Claire Boyer, Aymeric Dieuleveut, Julie Josse
 
