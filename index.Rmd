@@ -3,6 +3,8 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+**PhD defense** Tuesday June 29 at 4pm (in France) online, [dissertation](files/these_archivage_3300796.pdf), [slides]()
+
 **News** Appel à contribution, pour le Congrès des Jeunes Chercheurs en Mathématiques Appliquées du  27 au 29 octobre à l’École Polytechnique. Plus d'informations [ici](https://indico.math.cnrs.fr/event/6488/abstracts/). Pour soumettre, c'est [ici](https://indico.math.cnrs.fr/event/6488/abstracts/) jusqu'au 25 mai 2021.
 
 I am a third year PhD student in Mathematics supervised by Doctors Julie Josse and Claire Boyer at Ecole Polytechnique (CMAP) and University Pierre and Marie Curie (LPSM).
