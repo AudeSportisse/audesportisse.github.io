@@ -35,7 +35,7 @@ redirect_from:
   + (Covid year, 2020) Notes cours
   + Quizz, Correction
 
-* 2020 (autumn): Lecturer, R programmation and applications in statistics, UPMC (M2 students), lecturer
+* 2020 (autumn): R programmation and applications in statistics, UPMC (M2 students), lecturer
   + DM1
   + DM2
   + DM3
