@@ -28,6 +28,7 @@ Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, M
 [code](https://github.com/AudeSportisse/SSL_MNAR)
 [poster](files/SSL_poster_ICML.pdf)
 [slides](files/Slides_Firenze.pdf)
+[video](https://icml.cc/virtual/2023/poster/23657)
 
 **R-miss-tastic: a unified platform for missing values methods and workflows**  
 Imke Mayer, *Aude Sportisse*, Julie Josse, Nicholas Tiernay, Nathalie Vialaneix  
