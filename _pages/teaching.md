@@ -13,32 +13,28 @@ redirect_from:
 
 * 2023 (autumn): Introduction à l'intelligence artificielle, Université Côte d'Azur, lecturer
   + Pour les biologistes
-    + Cours 1: introduction et modèles linéaires
-    + Lien TP1
-    + Cours 2: réseaux de neurones
-    + Lien TP2
-    + Modalités d'évaluations
-    + Questions du test
+    + [Cours 1: introduction et modèles linéaires]() [Lien TP1]()
+    + [Cours 2: réseaux de neurones]() [Lien TP2]()
+    + [Modalités d'évaluations]() [Questions du test]()
   + STAPS, psychologues
-    + Cours 1: introduction et modèles linéaires
-    + Lien TP1
-    + Cours 2: fin du cours 1, rappels et lecture d'articles
+    + [Cours 1: introduction et modèles linéaires]() [Lien TP1]()
+    + [Cours 2: fin du cours 1, rappels et lecture d'articles]()
     + Rendez-vous sur Moodle pour les pdfs des articles à lire
 
 * 2021-2023 (autumn): Model-based Statistical Learning, Université Côte d'Azur (MSc Data Science & IA), co-lecturer with Charles Bouveyron and Pierre-Alexandre Mattei
   + Missing data [slides]() [TP]()
   + Projects 2023 [list]()
-  + Exam 2022 [](), Correction
-  + Exam 2021 [](), Correction
+  + [Exam 2022](), [Correction]()
+  + [Exam 2021](), [Correction]()
 
 * 2019-2021 (spring): Teaching assistant, Inferential statistics, UPMC (L3 students, ISUP), teaching assistant
   + (Covid year, 2020) Notes cours
   + Quizz, Correction
 
 * 2020 (autumn): R programmation and applications in statistics, UPMC (M2 students), lecturer
-  + DM1
-  + DM2
-  + DM3
+  + [DM1]()
+  + [DM2]()
+  + [DM3]()
  
 ## Supervision
 
