@@ -32,9 +32,7 @@ redirect_from:
   + Quizz, Correction
 
 * 2020 (autumn): R programmation and applications in statistics, UPMC (M2 students), lecturer
-  + [DM1]()
-  + [DM2]()
-  + [DM3]()
+  + [DM1](), [DM2](), [DM3]()
  
 ## Supervision
 
