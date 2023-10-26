@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 
 **Fed-MIWAE: Federated Imputation of Incomplete Data via Deep Generative Models**  
-Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, Marco Lorenzi.  
+Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, Marco Lorenzi  
 [paper](https://arxiv.org/abs/2304.08054)
 [code](https://github.com/AudeSportisse/fedbiomed)
 
