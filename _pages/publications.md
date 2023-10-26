@@ -26,7 +26,7 @@ Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, M
 **_ICML 2023 (oral)_**    
 [paper](https://arxiv.org/abs/2302.07540)
 [code](https://github.com/AudeSportisse/SSL_MNAR)
-[poster](files/SSL_poster_ICML.pdf)
+[poster](/files/SSL_poster_ICML.pdf)
 [slides](/files/Slides_Firenze.pdf)
 [video](https://icml.cc/virtual/2023/poster/23657)
 
