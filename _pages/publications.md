@@ -5,14 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# TODOs:
-
-- <r>TODO:</r> Important thing to do
-- <o>TODO:</o> Less important thing to do
-- <g>DONE:</g> Breath deeply and improve karma
-
-{% include base_path %}
-
 ## Working papers
 
 **Fed-MIWAE: Federated Imputation of Incomplete Data via Deep Generative Models**  
@@ -23,8 +15,8 @@ Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, M
 **Model-based Clustering with Missing Not At Random Data**  
 *Aude Sportisse*, Christophe Biernacki, Claire Boyer, Julie Josse, Matthieu Marbac, Gilles Celeux, Fabien Laporte  
 [paper](https://arxiv.org/abs/2304.08054)
-[code](https://github.com/AudeSportisse/Clustering-MNAR))
-[presentation]()
+[code](https://github.com/AudeSportisse/Clustering-MNAR)
+[presentation](files/Slides_Maasai_seminar_Clustering)
 
 
 ## Publications
@@ -35,7 +27,7 @@ Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, M
 [paper](https://arxiv.org/abs/2302.07540)
 [code](https://github.com/AudeSportisse/SSL_MNAR)
 [poster]()
-[presentation]()
+[presentation](files/Slides_Firenze.pdf)
 
 **R-miss-tastic: a unified platform for missing values methods and workflows**  
 Imke Mayer, *Aude Sportisse*, Julie Josse, Nicholas Tiernay, Nathalie Vialaneix  
@@ -48,29 +40,29 @@ Imke Mayer, *Aude Sportisse*, Julie Josse, Nicholas Tiernay, Nathalie Vialaneix
 Pascaline Descloux, Claire Boyer, Julie Josse, *Aude Sportisse*, Sylvain Sardy   
 **Scandinavian Journal of Statistics, 2022**  
 [paper](https://arxiv.org/abs/2005.05628)
-[presentation]()
-[video presentation]() 
+[presentation](files/Lass0_Sportisse.pdf)
+[video presentation](https://www.youtube.com/watch?v=sPt-JhmNZtU) 
 
 **Debiasing Stochastic Gradient Descent to handle missing values**   
 *Aude Sportisse*, Claire Boyer, Aymeric Dieuleveut, Julie Josse  
 **NeurIPS 2020**  
 [paper](https://arxiv.org/abs/2002.09338)
-[code]()
+[code](https://github.com/AudeSportisse/SGD-NA)
 [poster]()
-[presentation]() 
+[presentation](files/SGD_UTC.pdf) 
 
 **Estimation and Imputation in Probabilistic Principal Component Analysis with Missing Not At Random Data**  
 *Aude Sportisse*, Claire Boyer, Julie Josse  
 **NeurIPS 2020**    
 [paper](https://arxiv.org/abs/1906.02493)
-[code]()
+[code](https://github.com/AudeSportisse/PPCA_MNAR)
 [poster]()
-[presentation]()
+[presentation](files/PPCA_MNAR_2020.pdf)
 
 **Imputation and low-rank estimation with Missing Not At Random data**   
 *Aude Sportisse*, Claire Boyer, Julie Josse  
 **2019-2020, Statistics & Computing, Springer**   
 [paper](https://arxiv.org/abs/1812.11409)
-[code]()
+[code](https://github.com/AudeSportisse/stat)
 [poster]()
-[presentation]()
+[presentation](files/Dagstat2019_Sportisse.pdf)
