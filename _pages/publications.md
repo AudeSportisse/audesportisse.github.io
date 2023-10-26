@@ -16,7 +16,7 @@ Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, M
 *Aude Sportisse*, Christophe Biernacki, Claire Boyer, Julie Josse, Matthieu Marbac, Gilles Celeux, Fabien Laporte  
 [paper](https://arxiv.org/abs/2304.08054)
 [code](https://github.com/AudeSportisse/Clustering-MNAR)
-[slides](files/Slides_Maasai_seminar_Clustering)
+[slides](/files/Slides_Maasai_seminar_Clustering)
 
 
 ## Publications
@@ -27,7 +27,7 @@ Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, M
 [paper](https://arxiv.org/abs/2302.07540)
 [code](https://github.com/AudeSportisse/SSL_MNAR)
 [poster](files/SSL_poster_ICML.pdf)
-[slides](files/Slides_Firenze.pdf)
+[slides](/files/Slides_Firenze.pdf)
 [video](https://icml.cc/virtual/2023/poster/23657)
 
 **R-miss-tastic: a unified platform for missing values methods and workflows**  
@@ -41,7 +41,7 @@ Imke Mayer, *Aude Sportisse*, Julie Josse, Nicholas Tiernay, Nathalie Vialaneix
 Pascaline Descloux, Claire Boyer, Julie Josse, *Aude Sportisse*, Sylvain Sardy   
 **_Scandinavian Journal of Statistics, 2022_**  
 [paper](https://arxiv.org/abs/2005.05628)
-[slides](files/Lass0_Sportisse.pdf)
+[slides](/files/Lass0_Sportisse.pdf)
 [video](https://www.youtube.com/watch?v=sPt-JhmNZtU) 
 
 **Debiasing Stochastic Gradient Descent to handle missing values**   
@@ -49,20 +49,20 @@ Pascaline Descloux, Claire Boyer, Julie Josse, *Aude Sportisse*, Sylvain Sardy
 **_NeurIPS 2020_**  
 [paper](https://arxiv.org/abs/2002.09338)
 [code](https://github.com/AudeSportisse/SGD-NA)
-[poster](files/SGD_poster_NeurIPS.pdf)
-[slides](files/SGD_UTC.pdf) 
+[poster](/files/SGD_poster_NeurIPS.pdf)
+[slides](/files/SGD_UTC.pdf) 
 
 **Estimation and Imputation in Probabilistic Principal Component Analysis with Missing Not At Random Data**  
 *Aude Sportisse*, Claire Boyer, Julie Josse  
 **_NeurIPS 2020_**    
 [paper](https://arxiv.org/abs/1906.02493)
 [code](https://github.com/AudeSportisse/PPCA_MNAR)
-[poster](files/PPCA_poster_NeurIPS.pdf)
-[slides](files/PPCA_MNAR_2020.pdf)
+[poster](/files/PPCA_poster_NeurIPS.pdf)
+[slides](/files/PPCA_MNAR_2020.pdf)
 
 **Imputation and low-rank estimation with Missing Not At Random data**   
 *Aude Sportisse*, Claire Boyer, Julie Josse  
 **_2019-2020, Statistics & Computing, Springer_**   
 [paper](https://arxiv.org/abs/1812.11409)
 [code](https://github.com/AudeSportisse/stat)
-[slides](files/Dagstat2019_Sportisse.pdf)
+[slides](/files/Dagstat2019_Sportisse.pdf)
