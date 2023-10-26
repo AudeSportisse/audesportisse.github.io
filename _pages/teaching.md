@@ -22,7 +22,7 @@ redirect_from:
     + Rendez-vous sur Moodle pour les pdfs des articles à lire
 
 * 2021-2023 (autumn): Model-based Statistical Learning, Université Côte d'Azur (MSc Data Science & IA), co-lecturer with Charles Bouveyron and Pierre-Alexandre Mattei
-  + Missing data [slides]() [TP]()
+  + Missing data [slides]() [TP]() [EM algorithm]()
   + Projects 2023 [list]()
   + [Exam 2022](), [Correction]()
   + [Exam 2021](), [Correction]()
