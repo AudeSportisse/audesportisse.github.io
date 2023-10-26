@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Working papers
 
 **Fed-MIWAE: Federated Imputation of Incomplete Data via Deep Generative Models**  
