@@ -64,7 +64,7 @@ Pascaline Descloux, Claire Boyer, Julie Josse, *Aude Sportisse*, Sylvain Sardy
 
 **Imputation and low-rank estimation with Missing Not At Random data**   
 *Aude Sportisse*, Claire Boyer, Julie Josse  
-**_2019-2020, Statistics & Computing, Springer_**   
+**_Statistics & Computing, Springer, 2019-2020_**   
 [paper](https://arxiv.org/abs/1812.11409)
 [code](https://github.com/AudeSportisse/stat)
 [slides](/files/Dagstat2019_Sportisse.pdf)
