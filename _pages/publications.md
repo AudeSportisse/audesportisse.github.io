@@ -26,7 +26,7 @@ Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, M
 **ICML 2023 (oral)**  
 [paper](https://arxiv.org/abs/2302.07540)
 [code](https://github.com/AudeSportisse/SSL_MNAR)
-[poster]()
+[poster](files/SSL_poster_ICML.pdf)
 [presentation](files/Slides_Firenze.pdf)
 
 **R-miss-tastic: a unified platform for missing values methods and workflows**  
@@ -48,7 +48,7 @@ Pascaline Descloux, Claire Boyer, Julie Josse, *Aude Sportisse*, Sylvain Sardy
 **NeurIPS 2020**  
 [paper](https://arxiv.org/abs/2002.09338)
 [code](https://github.com/AudeSportisse/SGD-NA)
-[poster]()
+[poster](files/SGD_poster_NeurIPS.pdf)
 [presentation](files/SGD_UTC.pdf) 
 
 **Estimation and Imputation in Probabilistic Principal Component Analysis with Missing Not At Random Data**  
@@ -56,7 +56,7 @@ Pascaline Descloux, Claire Boyer, Julie Josse, *Aude Sportisse*, Sylvain Sardy
 **NeurIPS 2020**    
 [paper](https://arxiv.org/abs/1906.02493)
 [code](https://github.com/AudeSportisse/PPCA_MNAR)
-[poster]()
+[poster](files/PPCA_poster_NeurIPS.pdf)
 [presentation](files/PPCA_MNAR_2020.pdf)
 
 **Imputation and low-rank estimation with Missing Not At Random data**   
@@ -64,5 +64,4 @@ Pascaline Descloux, Claire Boyer, Julie Josse, *Aude Sportisse*, Sylvain Sardy
 **2019-2020, Statistics & Computing, Springer**   
 [paper](https://arxiv.org/abs/1812.11409)
 [code](https://github.com/AudeSportisse/stat)
-[poster]()
 [presentation](files/Dagstat2019_Sportisse.pdf)
