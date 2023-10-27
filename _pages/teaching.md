@@ -40,7 +40,8 @@ redirect_from:
   + [Exo 8 hors programme](/files/Exo8.pdf) [Exo 10](/files/Exo10.pdf) [Exo 10 fin](/files/Exo10_fin.pdf)
   + [Les 3 Quizz + Correction](/files/quizz1-3_corrections.pdf) *non notés*
 
-* 2020 (autumn): **R programmation and applications in statistics**, UPMC (M2 students), lecturer
+* 2020 (autumn): **R programming and applications in statistics**, UPMC (M2 students), lecturer
+  + [Installer R](/files/InstallerR.html)
   + [Modalités d'évaluation](/files/EvalR.html)
   + [DM1](/files/DM1.pdf), [DM2](/files/DM2.pdf), [DM3](/files/DM3.pdf)
   + [Correction DM1](/files/DevoirMaison1correction.html), [Correction DM2](/files/DevoirMaison2correction.html), [Correction DM3](/files/Devoirmaison3correction.html)
