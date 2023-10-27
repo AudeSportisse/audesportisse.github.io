@@ -27,7 +27,7 @@ redirect_from:
   + Missing data [slides](/files/Cours_missing_data_M2.pdf) [TP](/files/EMalgorithm_M2.Rmd) [EM algorithm](/files/EM_algorithm_bivariate_Gaussian_variable.pdf)
   + LDA [https://github.com/pamattei/MBSL-2324](Github page of the class)
   + [Exam 2022](/files/Homework2.pdf), [Correction](/files/Homework2_M2_correction.html)
-  + [Exam 2021](/files/Exam_M2_Rmarkdown.html), [Correction ipynb](/files/Exam M2-Correction.ipynb)
+  + [Exam 2021](/files/Exam_M2_Rmarkdown.html), [Correction ipynb](/files/Exam_M2-Correction.ipynb)
 
 
 ## Past teaching activities
