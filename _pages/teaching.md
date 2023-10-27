@@ -38,7 +38,7 @@ redirect_from:
   + (Covid year, 2020) [Cours 1](/files/Cours1.pdf) [Cours 1 bis](/files/Cours1_correcbonus.pdf) [Cours 2](/files/Cours2_02-02.pdf) [Cours 3](/files/Cours3_08-02.pdf) [Cours 4](/files/Cours4_09-02.pdf) [Cours 5](/files/Cours5_15-02.pdf) [Cours 6](/files/Cours6_16-02.pdf) [Cours 7](/files/Cours7_01-03.pdf) [Cours 8](/files/Cours8_02-03.pdf) [Cours 9](/files/Cours9_08-03.pdf) [Cours 10](/files/Cours10_09-03.pdf) [Cours 11](/files/Cours11_22-03.pdf) [Cours 12](/files/Cours12_23-03.pdf) [Cours 13](/files/Cours13_29-03.pdf) [Cours 14](/files/Cours14_30-03.pdf) [Cours 15](/files/Cours15_06-04.pdf) [Cours 16](/files/Cours16_12-04.pdf) [Cours 17](/files/Cours17_13-04.pdf) [Cours 17 bis](/files/Cours17_13-04_exo3.pdf) [Cours 18](/files/Cours18_04-05.pdf) [Cours 19](/files/Cours19_10-05.pdf) 
   + [Borel-Cantelli](/files/BorelCantelli.pdf) [Test stats](/files/Tableau_tests_enseignement.pdf)
   + [Exo 8 hors programme](/files/Exo8.pdf) [Exo 10](/files/Exo10.pdf) [Exo 10 fin](/files/Exo10_fin.pdf)
-  + [Les 3 Quizz + Correction](/files/quizz1-3_corrections.pdf) *non notés*
+  + [3 Quizz d'entrainement + Correction](/files/quizz1-3_corrections.pdf) 
 
 * 2020 (autumn): **R programming and applications in statistics**, UPMC (M2 students), lecturer
   + [Installer R](/files/InstallerR.html)
