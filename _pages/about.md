@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Since October 2023, I am a junior fellow in Efelia Côte d'Azur and I am still in the Maasai team for my reasearch works.
+Since October 2023, I am a junior fellow in [Efelia Côte d'Azur](https://univ-cotedazur.fr/efelia-cote-dazur) and I am still in the [Maasai team](https://team.inria.fr/maasai/) for my reasearch works.
 
 From October 2021 to the end of September 2023, I was a Postdoctoral researcher of the [3iA Côte d'Azur](https://3ia.univ-cotedazur.eu/) at Centre Inria d'Université Côte d'Azur in the Maasai team. I was working on deep semi-supervised learning, with [Charles Bouveyron](https://math.univ-cotedazur.fr/~cbouveyr/) and [Pierre-Alexandre Mattei](https://pamattei.github.io/).
 
