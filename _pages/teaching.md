@@ -15,7 +15,7 @@ redirect_from:
   + *Pour les biologistes*
     + [Cours 1: introduction et modèles linéaires](/files/Cours1_Efelia.pdf) [Lien binder TP1](https://mybinder.org/v2/gh/AudeSportisse/Efelia-cours/HEAD?labpath=TP1_linear_models.ipynb)
     + [Cours 2: réseaux de neurones](/files/Cours2_Efelia.pdf) [Lien binder TP2](https://mybinder.org/v2/gh/AudeSportisse/Efelia-cours/HEAD?labpath=TP2_neural_networks.ipynb) *ne pas rééxucuter sur binder l'entrainement de Net*
-    + [Modalités d'évaluations](/files/Modalités_évaluation.pdf) [Questions du test](/files/Test_IA_Questions.pdf)
+    + [Modalités d'évaluation](/files/Modalités_évaluation.pdf) [Questions du test](/files/Test_IA_Questions.pdf)
   + *STAPS*, *psychologues*
     + [Cours 1: introduction et modèles linéaires](/files/Cours1_ES.pds) [Lien binder TP1](https://mybinder.org/v2/gh/AudeSportisse/Efelia-cours/HEAD?labpath=TP1_linear_models.ipynb)
     + [Cours 2: fin du cours 1, rappels et lecture d'articles](/files/Cours2_ES.pdf)
