@@ -23,7 +23,7 @@ redirect_from:
     + Rendez-vous sur Moodle pour les pdfs des articles à lire
 
 * 2021-2023 (autumn): **Model-based Statistical Learning**, Université Côte d'Azur (MSc Data Science & IA), co-lecturer with Charles Bouveyron and Pierre-Alexandre Mattei
-  + Missing data [slides]() [TP](/files/EMalgorithm_M2.Rmd) [EM algorithm](/files/EM_algorithm_bivariate_Gaussian_variable.pdf)
+  + Missing data [slides](/files/Cours_missing_data_M2.pdf) [TP](/files/EMalgorithm_M2.Rmd) [EM algorithm](/files/EM_algorithm_bivariate_Gaussian_variable.pdf)
   + Projects 2023 [list](/files/Projects_MSc_2023.pdf)
   + [Exam 2022](/files/Homework2.pdf), [Correction](/files/Homework2_M2_correction.html)
   + [Exam 2021](/files/Exam_M2_Rmarkdown.html), [Correction]()
@@ -40,9 +40,9 @@ redirect_from:
   + [Les 3 Quizz + Correction](/files/quizz1-3_corrections.pdf) **non notés**
 
 * 2020 (autumn): **R programmation and applications in statistics**, UPMC (M2 students), lecturer
-  + [Modalités d'évaluation](EvalR.html)
+  + [Modalités d'évaluation](/files/EvalR.html)
   + [DM1](/files/DM1.pdf), [DM2](/files/DM2.pdf), [DM3](/files/DM3.pdf)
-  + [Correction DM1](/files/DevoirMaison1correction.html), [Correction DM2](/files/DevoirMaison2correction.html), [Correction DM3](/files/DevoirMaison3correction.html)
+  + [Correction DM1](/files/DevoirMaison1correction.html), [Correction DM2](/files/DevoirMaison2correction.html), [Correction DM3](/files/Devoirmaison3correction.html)
  
 * 2018-2021: **Machine learning**, Executive degree X-Exed (Ecole Polytechnique), lecturer
   
