@@ -16,7 +16,8 @@ Irene Balelli, *Aude Sportisse*, Francesco Cremonesi, Pierre-Alexandre Mattei, M
 
 **Model-based Clustering with Missing Not At Random Data**  
 *Aude Sportisse*, Christophe Biernacki, Claire Boyer, Julie Josse, Matthieu Marbac, Gilles Celeux, Fabien Laporte  
-[paper](https://arxiv.org/abs/2304.08054)
+[paper](https://hal.science/hal-03494674)
+[accompagnying note (new)](https://hal.science/hal-04358192)
 [code](https://github.com/AudeSportisse/Clustering-MNAR)
 [slides](/files/Slides_Maasai_seminar_Clustering)
 
