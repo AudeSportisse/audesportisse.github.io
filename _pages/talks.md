@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+* [SSL library SemiPy (collaboration with Lucas Boiteau)](/files/Presentation_SophiaSummit_SemiPy.pdf)
+  + 24 November 2023, [Sophia Summit](https://univ-cotedazur.eu/events/sophia-summit)
+
 * [Informative labels in Semi-Supervised learning](/files/Slides_Firenze.pdf)
   + 13 December 2022, International Conference on Statistics and Data Science (Invited talk), Firenze (Italy)
   + 30 May 2022, Missing Data and Survival Analysis workshop, Angers
