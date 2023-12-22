@@ -15,17 +15,20 @@ redirect_from:
   + *Pour les biologistes*
     + [Cours 1: introduction et modèles linéaires](/files/Cours1_Efelia.pdf) [Lien binder TP1](https://mybinder.org/v2/gh/AudeSportisse/Efelia-cours/HEAD?labpath=TP1_linear_models.ipynb)
     + [Cours 2: réseaux de neurones](/files/Cours2_Efelia.pdf) [Lien binder TP2](https://mybinder.org/v2/gh/AudeSportisse/Efelia-cours/HEAD?labpath=TP2_neural_networks.ipynb) *ne pas rééxucuter sur binder l'entrainement de Net*
+    + [Cours 3: arbres de décision](/files/Cours3_Efelia.pdf) [Lien binder TP3](https://mybinder.org/v2/gh/AudeSportisse/Efelia-cours/HEAD?labpath=TP3_missing_values.ipynb)
     + [Modalités d'évaluation](/files/Modalités_évaluation.pdf) [Questions du test](/files/Test_IA_Questions.pdf)
   + *STAPS*, *psychologues*
     + [Cours 1: introduction et modèles linéaires](/files/Cours1_ES.pds) [Lien binder TP1](https://mybinder.org/v2/gh/AudeSportisse/Efelia-cours/HEAD?labpath=TP1_linear_models.ipynb)
     + [Cours 2: fin du cours 1, rappels et lecture d'articles](/files/Cours2_ES.pdf)
     + [Quizz Séance 1](/files/Wooclap_quizz_séance1.pdf)
     + Rendez-vous sur Moodle pour les pdfs des articles à lire
+    + [Slides accéléromètre](/files/Slides_Acceleromètre_IA.pdf)
 
 * 2021-2023 (autumn): **Model-based Statistical Learning**, Université Côte d'Azur (MSc Data Science & IA), co-lecturer with Charles Bouveyron and Pierre-Alexandre Mattei
   + Projects 2023 [list](/files/Projects_MSc_2023.pdf)
   + Missing data [slides](/files/Cours_missing_data_M2.pdf) [TP](/files/EMalgorithm_M2.Rmd) [EM algorithm](/files/EM_algorithm_bivariate_Gaussian_variable.pdf)
   + LDA [Github page of the class](https://github.com/pamattei/MBSL-2324)
+  + [Exam 2023](/files/Small_test_M2.pdf)
   + [Exam 2022](/files/Homework2.pdf), [Correction](/files/Homework2_M2_correction.html)
   + [Exam 2021](/files/Exam_M2_Rmarkdown.html), [Correction ipynb](/files/Exam_M2-Correction.ipynb)
 
