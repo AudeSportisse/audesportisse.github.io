@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aude Sportisse"
 title_separator          : "-"
 name                     : &name "Aude Sportisse"
-description              : &description "Junior Fellow EFELIA"
+description              : &description "CNRS Research Scientist"
 url                      : https://audesportisse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "audesportisse.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aude Sportisse"
   avatar           : "Aude.png"
-  bio              : "Junior Fellow EFELIA"
-  location         : "Inria Sophia Antipolis"
+  bio              : "CNRS Research Scientist"
+  location         : "Laboratoire d'Informatique de Grenoble (LIG)"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wXnOSrkAAAAJ&hl=fr"
