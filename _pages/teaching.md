@@ -14,7 +14,7 @@ redirect_from:
 * 2026 (autumn): **Mathematical foundations of ML**, Ensimag, lecturer
   + Unsupervised and semi-supervised learning
     - [Slides](/files/Slides_part1_Unsupervised_SemiSupervised_Learning.pdf)
-    - [Notebook](files/Notebook_part1_Unsupervised_SemiSupervised_Learning.ipynb)
+    - [Notebook](/files/Notebook_part1_Unsupervised_SemiSupervised_Learning.ipynb)
 
 ## Past teaching activities
 
