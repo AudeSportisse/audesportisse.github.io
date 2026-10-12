@@ -11,6 +11,13 @@ redirect_from:
 
 ## Teaching materials
 
+* 2026 (autumn): **Mathematical foundations of ML**, Ensimag, lecturer
+  + Unsupervised and semi-supervised learning
+    - [Slides](/files/Slides_part1_Unsupervised_SemiSupervised_Learning.pdf)
+    - [Notebook](files/Notebook_part1_Unsupervised_SemiSupervised_Learning.ipynb)
+
+## Past teaching activities
+
 * 2023 (autumn): **Introduction à l'intelligence artificielle**, Université Côte d'Azur, lecturer
   + *Pour les biologistes*
     + [Cours 1: introduction et modèles linéaires](/files/Cours1_Efelia.pdf) [Lien binder TP1](https://mybinder.org/v2/gh/AudeSportisse/Efelia-cours/HEAD?labpath=TP1_linear_models.ipynb)
@@ -31,9 +38,6 @@ redirect_from:
   + [Exam 2023](/files/Small_test_M2.pdf)
   + [Exam 2022](/files/Homework2.pdf), [Correction](/files/Homework2_M2_correction.html)
   + [Exam 2021](/files/Exam_M2_Rmarkdown.html), [Correction ipynb](/files/Exam_M2-Correction.ipynb)
-
-
-## Past teaching activities
 
 * 2022 (autumn): **Introduction to Probabilistic Graphical Models and Deep Generative Models**, Master MVA (ENS Paris-Saclay), teaching assistant
 
