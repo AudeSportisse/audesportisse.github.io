@@ -14,7 +14,9 @@ redirect_from:
 * 2026 (autumn): **Mathematical foundations of ML**, Ensimag, lecturer
   + Unsupervised and semi-supervised learning
     - [Slides](/files/Slides_part1_Unsupervised_SemiSupervised_Learning.pdf)
+    - [EM for gaussian mixtures](/files/EM_for_Gaussian_mixtures.pdf)
     - [Notebook](/files/Notebook_part1_Unsupervised_SemiSupervised_Learning.ipynb)
+    - [Notebook correction](/files/Notebook_correction_part1_Unsupervised_SemiSupervised_Learning.ipynb)
 
 ## Past teaching activities
 
