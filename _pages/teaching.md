@@ -18,7 +18,7 @@ redirect_from:
     - [EM for gaussian mixtures](/files/EM_for_Gaussian_mixtures.pdf)
     - [Notebook](/files/Notebook_part1_Unsupervised_SemiSupervised_Learning.ipynb)
     - [Notebook correction](/files/Notebook_correction_part1_Unsupervised_SemiSupervised_Learning.ipynb)
-    - [Small project](/files/Notebook_smallproject_part2.ipynb)
+    - [Small project](/files/Notebook_part2_smallproject.ipynb)
     
 
 ## Past teaching activities
